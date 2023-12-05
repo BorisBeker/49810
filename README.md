@@ -6,6 +6,7 @@
 - css
 - bootstrap
 - sass
+- javascript (añadido recientemente)
 
 ## SECCIONES
 - SOBRE MI
@@ -13,3 +14,4 @@
 - HABILIDADES
 - EDUCACION
 - CONTACTO
+- Log In (En testeo, solo disponible en SOBRE MI)
